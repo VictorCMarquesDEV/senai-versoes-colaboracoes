@@ -1,1 +1,1 @@
-exemple
+lembrei do comando: git status
